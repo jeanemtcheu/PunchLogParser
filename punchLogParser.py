@@ -2,7 +2,6 @@
 File: punchLogParser.py
 Author: Jean Andre Emtcheu
 Date: 10/7/2022
-Email:  jemtche1@umbc.edu
 Description:  This program classifies students attendance by parsing through scattered swipe log entry data
 """
 
